@@ -1,4 +1,4 @@
-# Panger_checker
+# Pangram_checker
 
 how to run the program
 
