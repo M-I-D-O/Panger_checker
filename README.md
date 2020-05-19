@@ -11,6 +11,8 @@ how to run the program
 
 4. Open the file that you got after cloning the repository by giving "cd Pangram_checker"
 
-5. run the program by typing in terminal "java" and the name of the file you got "Pangram_checker.java"
+5. Now open the file "src" the same way you did before.
 
-6. the program is already executed 
+6. run the program by typing in terminal "java" and the name of the file you got "Pangram_checker.java"
+
+7. the program is already executed 
